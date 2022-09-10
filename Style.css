@@ -1,0 +1,37 @@
+#title{
+    background-color: aliceblue;
+    text-align: center;
+    margin:1em auto;
+}
+#description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    padding-bottom: 2em;
+    margin:0 auto;
+}
+#number{
+    min: 10px;
+    max: 20px;
+}
+#name-label{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+#email-label{
+    display: block;
+    margin: 0.5rem 0;
+}
+#number-label{
+    display:block;
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+}
+#submit{
+    background:rgb(0,255,0)
+}
+#drop-down{
+    color:#ffffff;
+    font-family:times new roman;
+}
